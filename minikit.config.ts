@@ -5,10 +5,10 @@ const ROOT_URL =
 
 export const minikitConfig = {
   accountAssociation: {
-    header: "",
-    payload: "",
-    signature: "",
-  },
+  header: "eyJmaWQiOjE4MzAyMTYxMjQ...",  // paste header kamu
+  payload: "eyJkb21haW4iOiJudXdh...",  // paste payload kamu
+  signature: "AAAAAAAAAAAAAAAA...",  // paste signature kamu
+},
   miniapp: {
     version: "1",
     name: "Nuwa People Search",
